@@ -12,4 +12,4 @@ This project milestone requires you to review the literature related to your pro
 
 ## Submission
 
-Add your completed literature review to the [README](README.md) of this folder.
+Use the structure provided in the [README](README.md) of this folder to complete your literature review.

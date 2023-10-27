@@ -56,6 +56,7 @@ Your presentation should generally follow this structure:
 
 1. Prepare your slides in a format that is easy to present and share (e.g., PowerPoint, Google Slides, PDF).
 2. Save the presentation slides in the folder `4_Presentation`.
-3. Login under [edu.opencampus.sh](https://edu.opencampus.sh) and open the page of the course you conducted the project for. In the achievement section, select the title of your project. Then download the provided template, complete it, and upload the completed document.
+3. Complete the [README]() in the top folder with your project specific info.
+4. Login under [edu.opencampus.sh](https://edu.opencampus.sh) and open the page of the course in which you are conducting the project. In the achievement section, select the title of your project; then download the provided template, complete it, and upload the completed document.
 
 After the final deadline for the submission, the projects will be reviewed and the certificates will be issued.

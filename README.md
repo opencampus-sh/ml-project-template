@@ -1,8 +1,10 @@
 # [Your Project Title Here]
 
-## Repository Link
+## Authors or Contributors
 
-[https://github.com/your_username/your_project_name]
+- [Author 1 Name](https://github.com/Author1GitHub)
+- [Author 2 Name](https://github.com/Author2GitHub)
+- [Author 3 Name](https://github.com/Author3GitHub)
 
 ## Description
 

@@ -52,17 +52,23 @@ Your presentation should generally follow this structure:
 
 11. **Q&A**: Final slide indicating the Q&A part.
 
-## Submission
+## Submission Instructions
 
-1. Prepare your slides in a format that is easy to present and share (e.g., PowerPoint, Google Slides, PDF).
-2. Save the presentation slides in the folder `4_Presentation`.
-3. Replace the image in the folder CoverImage with an image from your presentation (it will serve as cover image for the project)
-4. Complete the [README](../README.md) in the top folder with your project specific info.
-5. Change the link in the [README](README.md) in this folder to point to your presentation slides.
-6. Login under [edu.opencampus.sh](https://edu.opencampus.sh) and:
-   - go to the page of the course in which you are conducting the project
-   - in the achievement section, select the title of your project
-   - download the provided instructions to review if there are any specific instructions for your project
-   - upload the [README](README.md) file of your repo (only that one) using the upload button
+**Note**: Only ONE team member needs to submit the project.
 
-After the final deadline for the submission, the projects will be reviewed and the certificates will be issued.
+1. **Slides**: Create your presentation slides. Save them in `4_Presentation` as a PowerPoint, Google Slides, or PDF file.
+
+2. **Cover Image**: Replace the placeholder image in `CoverImage` with an image from your slides.
+
+3. **README**: Update the main [README](../README.md) with project details.
+
+4. **Link to Slides**: Modify the link in this folder's [README](README.md) to point to your presentation slides.
+
+5. **edu.opencampus.sh Submission**:
+   - Log in at [edu.opencampus.sh](https://edu.opencampus.sh).
+   - Navigate to your course and go to the 'achievements' section.
+   - Select your project title and download possible project specific documentation instructions.
+   - Upload the main [README](../README.md) via the upload dialog.
+   - Include co-authors in the upload dialog as applicable.
+
+**Deadline**: All submissions will be reviewed post-deadline and certificates will be issued accordingly.
